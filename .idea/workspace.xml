@@ -4,47 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fae7226-dd9f-4ce6-addf-12ad71fd21e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Captain.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/applications.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/resumes/E.L Dixon.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ai_assistance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chroma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/contact_management.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/job_tracking_window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui/main_window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/job_tracking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resume_management.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resume_processing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/api_key_management.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/file_conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_resume_management.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_ai_assistance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_chroma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_contact_management.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_job_tracking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_resume_management.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_resume_processing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_utils.py" afterDir="false" />
-    </list>
+    <list default="true" id="3fae7226-dd9f-4ce6-addf-12ad71fd21e9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
